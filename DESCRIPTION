@@ -25,7 +25,7 @@ Imports:
     gert,
     tippy (>= 1.0),
     dplyr,
-    glue
+    glue,
     shiny,
     htmltools
 Suggests: shinipsum, tibble
