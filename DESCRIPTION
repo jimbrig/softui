@@ -23,7 +23,7 @@ Imports:
     uuid,
     reactable,
     gert,
-    tippy (>= 1.0),
+    tippy,
     dplyr,
     glue,
     shiny,
