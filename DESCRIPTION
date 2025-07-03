@@ -22,8 +22,12 @@ Imports:
     htmltools,
     uuid,
     reactable,
-    gert
-Depends: shiny, glue, htmltools, dplyr, tippy (>= 1.0)
+    gert,
+    tippy (>= 1.0),
+    dplyr,
+    glue
+    shiny,
+    htmltools
 Suggests: shinipsum, tibble
 Encoding: UTF-8
 LazyData: true
